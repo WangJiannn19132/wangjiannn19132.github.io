@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Xianwen Ling"
+title                    : "Jianzhou Wang"
 title_separator          : "-"
-name                     : &name "Xianwen Ling"
-description              : &description "Doctoral student in NJUST"
-url                      : https://lingxianwen.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Jianzhou Wang"
+description              : &description "M.E. student in HHU"
+url                      : https://wangjiannn19132.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : ""
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,27 +22,27 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Xianwen Ling"
+  name             : "Jianzhou Wang"
   pronouns         : # example: "she/her"  
-  bio              : "Doctoral student in NJUST"
+  bio              : "M.E. student in HHU"
   location         : "Nanjing, China"
   #employer         : "Red Brick University"
   uri              : # URL
-  email            : "17756013567@163.com" 
+  email            : "wangjianzhou@hhu.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=sx5zDfoAAAAJ"
+  googlescholar    : ""
   impactstory      : # URL
-  orcid            : # "http://orcid.org/yourorcidurl"
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  orcid            : # ""
+  pubmed           : # ""
   researchgate     : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "Lingxianwen"
+  github           : "WangJiannn19132"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 

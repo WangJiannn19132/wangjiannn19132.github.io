@@ -7,31 +7,31 @@ redirect_from:
   - /about.html
 ---
 
-I'm a First-year doctoral student from [School of Computer Science and Engineering](https://cs.njust.edu.cn/), [Nanjing University of Science and Technology](https://www.njust.edu.cn/). 
+I'm a Second-year M.S. student from [College of Computer Science and Software Engineering](https://cies.hhu.edu.cn/), [Hohai University](https://www.hhu.edu.cn/). 
 
-I am very fortunate to be advised by [Prof. Kun Zhang](http://kunzhangcn.net/) from [School of CSE](https://www.njust.edu.cn/), NJUST. I also worked closely with [Prof. Hao Peng](https://mypage.zjnu.edu.cn/hpeng/zh_CN/) and [Prof. Wei Wang](https://gwgl.cqmu.edu.cn/info/1214/5264.htm) during my M.S. time.
+I am advised by [Prof. Yirui Wu](http://wuyirui.github.io/). I also worked with [Prof. Jun Liu](https://www.research.lancs.ac.uk/portal/en/people/jun-liu(e7e0b891-dad2-4d07-a070-a01abeed22ea).html) and [Wenhai Wang](https://whai362.github.io/).
 
-My research interest includes Network science, network security.
+My research interest includes Computer Vision and Visual-Language Models.
 
 ## Education Experience
 * Ph.D in Nanjing, Nanjing University of Science and Technology, 2028 (expected)
-* M.S. in Jinhua, Zhejiang Normal University, 2021
-* B.S. in Tongling, Tongling University, 2017
+* M.S. in Jinhua, Hohai University, 2026(expected)
+* B.S. in Nanjing Forestry University, 2023
 
 ## Skills
-* Network science
-  * Complex network modeling
-  * Network reliability analysis
-* Network security
-  * Protocol Reverse Engineering
+* Programming Languages
+  * Python
+  * C++
+  * Java
+* Workflows
+  * PyCharm + Shell + Git
+  * Debug with Jupyter Notebook & Cursor.
 
 ## Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-## Journal Reviewer
-* International Journal of Autonomous and Adaptive Communications Systems
   
 ## Participate in a project or competition
 * ​Jiangsu Province Graduate Student Scientific Research and Practical Innovation Program, 2025-2026
@@ -53,4 +53,4 @@ My research interest includes Network science, network security.
 * Outstanding Graduate of Zhejiang Normal University, 2023
 * Outstanding Graduate of Anhui province, 2016
 
-[Email](mailto:lingxw@njust.edu.cn) / [Github](https://github.com/Lingxianwen) / [CSDN](https://lingxw.blog.csdn.net/)
+[Email](mailto:wangjianzhou@hhu.edu.cn) / [Github](https://github.com/WangJiannn19132)
