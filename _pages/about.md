@@ -42,10 +42,10 @@ My research interest includes Computer Vision and Visual-Language Models.
 * Anhui Robot Competition Program Design Class (ACM) third prize, 2019 -->
 
 ## Honors & Awards
-Outstanding Graduate, Nanjing Forestry University, 2023.06
-Excellent League Member, Nanjing Forestry University, 2022.06
-Excellent Student Cadre, Nanjing Forestry University, 2022.06
-Academic Scholarship for Excellent Student, 2021.06 & 2022.06
-3rd prize of Lanqiao Cup National Software and IT Talent Competition
+* Outstanding Graduate, Nanjing Forestry University, 2023.06
+* Excellent League Member, Nanjing Forestry University, 2022.06
+* Excellent Student Cadre, Nanjing Forestry University, 2022.06
+* Academic Scholarship for Excellent Student, 2021.06 & 2022.06
+* 3rd prize of Lanqiao Cup National Software and IT Talent Competition
 
 [Email](mailto:wangjianzhou@hhu.edu.cn) / [Github](https://github.com/WangJiannn19132)
