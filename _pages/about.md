@@ -7,14 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Second-year M.S. student from [College of Computer Science and Software Engineering](https://cies.hhu.edu.cn/), [Hohai University](https://www.hhu.edu.cn/). 
+I'm a second-year M.Sc. student from [College of Computer Science and Software Engineering](https://cies.hhu.edu.cn/), [Hohai University](https://www.hhu.edu.cn/). 
 
 I am advised by [Prof. Yirui Wu](http://wuyirui.github.io/). I also worked with [Prof. Jun Liu](https://www.research.lancs.ac.uk/portal/en/people/jun-liu(e7e0b891-dad2-4d07-a070-a01abeed22ea).html) and [Wenhai Wang](https://whai362.github.io/).
 
 My research interest includes Computer Vision and Visual-Language Models.
 
 ## Education Experience
-* Ph.D in Nanjing, Nanjing University of Science and Technology, 2028 (expected)
 * M.S. in Jinhua, Hohai University, 2026(expected)
 * B.S. in Nanjing Forestry University, 2023
 
