@@ -46,6 +46,6 @@ My research interest includes Computer Vision and Visual-Language Models.
 * Excellent League Member, Nanjing Forestry University, 2022.06
 * Excellent Student Cadre, Nanjing Forestry University, 2022.06
 * Academic Scholarship for Excellent Student, 2021.06 & 2022.06
-* 3rd prize of Lanqiao Cup National Software and IT Talent Competition
+* 3rd prize of Lanqiao Cup National Software and IT Talent Competition, 2020
 
 [Email](mailto:wangjianzhou@hhu.edu.cn) / [Github](https://github.com/WangJiannn19132)
