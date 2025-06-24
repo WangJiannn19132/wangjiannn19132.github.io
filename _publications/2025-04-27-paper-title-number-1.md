@@ -5,7 +5,7 @@ permalink: /publication/2022-04-27-paper-title-number-1
 # excerpt: 'xxxx'
 date: 2025-04-27
 venue: 'the 34th International Joint Conference on Artificial Intelligence'
-paperurl: 'http://wangjiannn19132.github.io/files/paper1.pdf'
+paperurl: 'http://wangjiannn19132.github.io/files/Diffuse_Refine__Intrinsic_Knowledge_Generation_and_Aggregation_for_Incremental_Object_Detection_camera_ready.pdf'
 authors: 'Jianzhou Wang, Yirui Wu*, Lixin Yuan, Wenxiao Zhang, Jun Liu, Junyang Chen, Huan Wang, and Wenhai Wang'
 ---
 
